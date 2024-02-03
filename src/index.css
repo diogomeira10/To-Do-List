@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 body {
-  background-color: rgb(233, 122, 0)
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background-color: rgb(233, 122, 0);
+ 
 }
